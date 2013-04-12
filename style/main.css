@@ -5,9 +5,9 @@
 
 body { background: #62A3D6 url("../img/bg.png") repeat-x; }
 
-.universe { margin: 0 auto; width: 1000px; min-height: 800px;}
+.universe { margin: 0 auto; width: 1000px; min-height: 800px; }
 
-#logo { position: absolute; margin: 0 359px;}
+#logo { position: absolute; margin: 0 359px; }
 
 #car { position: absolute; margin: 200px 0 0 180px; }
 
