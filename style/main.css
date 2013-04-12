@@ -1,5 +1,5 @@
-/*темно-синий    #233f57   */
-/*светло-синий   #62a3d6   */
+/*пїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅ    #233f57   */
+/*пїЅпїЅпїЅпїЅпїЅпїЅ-пїЅпїЅпїЅпїЅпїЅ   #62a3d6   */
 
 * { margin: 0px; padding: 0px; }
 
@@ -11,7 +11,7 @@ body { background: #62A3D6 url("../img/bg.png") repeat-x; }
 
 #car { position: absolute; margin: 200px 0 0 180px; }
 
-.minicar { position: absolute; opacity: 0;}
+.minicar { position: absolute; opacity: 0; }
 
 #minicar { position: absolute; opacity: 0; }
 #minicar1 { margin: 178px 0 0 190px; width: 535px; height: 300px; opacity: 0.4; z-index: 1;}
@@ -19,7 +19,7 @@ body { background: #62A3D6 url("../img/bg.png") repeat-x; }
 #minicar3 { margin: 500px 0 0 243px; width: 383px; height: 150px; z-index: 2; }
 #minicar4 { margin: 174px 0 0 753px; width: 80px; height: 150px; z-index: 2; }
 
-/*--------------Линии------------------*/
+/*--------------пїЅпїЅпїЅпїЅпїЅ------------------*/
 .line { width: 187px; height: 15px; position: absolute; opacity: 0.3;}
 
 #line1 { margin: 480px 0 0 570px; }
@@ -29,7 +29,7 @@ body { background: #62A3D6 url("../img/bg.png") repeat-x; }
 #line5 { margin: 435px 0 0 675px; }
 #line6 { margin: 255px 0 0 250px; }
 
-/*-------------Текст-----------------*/
+/*-------------пїЅпїЅпїЅпїЅпїЅ-----------------*/
 .text { font-family: 'PT Sans Narrow', sans-serif; position: absolute; color: white; cursor: pointer;}
 
 .font11 { font-size: 1.1em; }
